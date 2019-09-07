@@ -134,7 +134,7 @@ Downloading CPMA Mod 1.51 ...
 
 # CPMA MOD
 cd ..
-curl https://cdn.playmorepromode.com/files/cpma/cpma-1.51-nomaps.zip > cpma.zip
+curl https://cdn.playmorepromode.com/files/cpma/cpma-1.52-nomaps.zip > cpma.zip
 
 echo "\n
 ++++++++++++++++++++++++++++++++++++++++++
